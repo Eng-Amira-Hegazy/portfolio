@@ -35,14 +35,9 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 📜 Certifications
-## 📜 Certifications
 
-### Data Analysis Certificate 🧑‍💻📊
-**Issued by:** [Institution Name](#)  
-**Date:** Month Year  
-**Description:** Gained expertise in data manipulation, statistical analysis, and visualization using Python, R, and SQL.
 
-![Data Analysis Icon](https://img.icons8.com/ios-filled/50/000000/data-analytics.png)  
+- 📊 **Data Analysis Certificate** 
 - 🛡️ **CCNP Routing and Switching**  
 - 🛡️ **CCNA - Cisco Certified Network Associate**  
 - 🛡️ **Cisco Certified Security Associate (CCSA)**  
@@ -52,11 +47,12 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 💼 Experience
-
+### 🔧 **Data Alanalist**
+-expertise in data manipulation, statistical analysis, and visualization using Python, Power Bi and SQL.
 ### 🔧 **Network Engineer**  
 _Information Network & Data Center, Alexandria University (2008-2015)_
 
-- Configured and troubleshot Cisco and HP switches (4500, 3560, 2690).
+- Configured and troubleshot Cisco and HP switches .
 - Developed wireless network infrastructures and recommended systems enhancements.
 - Implemented security measures for network protection.
 - Configured VPNs, VLANs, and troubleshooting LAN/WAN issues.
