@@ -21,7 +21,6 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 
 **Programming & Data Analysis:**
 - **Data Visualization**: Tableau 📊, Power BI 📈, Matplotlib 📊, Seaborn 🎨
--  
 - **Databases**: SQL Server
 - **Programming Languages**: Python 🐍, SQL 💻
 - ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
@@ -58,7 +57,6 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 📜 Certifications
-### Data Analysis Certificate 🧑‍💻
 
 - 📊 **Data Analysis Certificate** 
 - 🛡️ **CCNP Routing and Switching**  
@@ -72,24 +70,15 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 
 ## 💼 Experience
 
-### 🛠️ Technical Skills
-
-
-### 🔍 Soft Skills
-
-- **Problem Solving** 🧠: Ability to troubleshoot and resolve complex networking issues under pressure.
-- **Project Management** 📅: Leading large-scale network deployments and migrations.
-- **Communication** 🗣️: Strong ability to communicate technical concepts to non-technical stakeholders.
-- **Team Leadership** 👥: Mentoring junior engineers and managing cross-functional teams.
-- **Time Management** ⏱️: Efficient in managing multiple projects and meeting tight deadlines.
-- **Adaptability** 🔄: Ability to stay updated with the latest networking technologies and trends.
 
 
 
 ---
 
 ## 🚀 Projects
+**Programming & Data Analysis:**
 
+**Networking:**
 - **Alexandria University Networking Infrastructure Phase II & III**  
   _Implemented fiber and wireless network infrastructure with Cisco and HP switches._
   
