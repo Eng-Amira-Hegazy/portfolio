@@ -27,6 +27,28 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 - ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 **Networking:**
+🔧 **Network Engineer**  
+
+- **Network Design & Architecture** 🌐:
+  - Designing scalable, secure, and resilient network infrastructures.
+  - Experience with LAN, WAN, VPN, MPLS, SD-WAN, and cloud networking.
+
+- **Routing & Switching** 🖧:
+  - Expertise in dynamic routing protocols: OSPF, BGP, EIGRP, RIP.
+  - Configuring and managing layer 2/3 switches and routers (Cisco, Juniper, Dell).
+  
+- **Security & Firewalls** 🔐:
+  - Configuring and maintaining firewalls:  Fortinet
+  - Implementation of IPSec VPNs, SSL VPNs, DMZs, and intrusion detection systems (IDS/IPS).
+  
+- **Wireless Networking** 📶:
+  - Managing wireless infrastructures using Cisco Meraki, Aruba, Ruckus.
+  - Implementing secure, high-performance Wi-Fi networks (802.11 standards).
+
+- **Monitoring & Troubleshooting** 🔧:
+  - Proficient with network monitoring tools: SolarWinds, Wireshark, Nagios, PRTG.
+  - Strong diagnostic skills in analyzing and resolving network performance issues.
+
 - ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 - ![HP](https://img.shields.io/badge/-HP-0096D6?style=flat-square&logo=hp&logoColor=white)
 - Wireless Network Infrastructure Design & Optimization
@@ -49,15 +71,19 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 💼 Experience
-### 🔧 **Data analysist**
--expertise in data manipulation, statistical analysis, and visualization using Python, Power Bi and SQL.
-### 🔧 **Network Engineer**  
-_Information Network & Data Center, Alexandria University (2008-2015)_
 
-- Configured and troubleshot Cisco and HP switches .
-- Developed wireless network infrastructures and recommended systems enhancements.
-- Implemented security measures for network protection.
-- Configured VPNs, VLANs, and troubleshooting LAN/WAN issues.
+### 🛠️ Technical Skills
+
+
+### 🔍 Soft Skills
+
+- **Problem Solving** 🧠: Ability to troubleshoot and resolve complex networking issues under pressure.
+- **Project Management** 📅: Leading large-scale network deployments and migrations.
+- **Communication** 🗣️: Strong ability to communicate technical concepts to non-technical stakeholders.
+- **Team Leadership** 👥: Mentoring junior engineers and managing cross-functional teams.
+- **Time Management** ⏱️: Efficient in managing multiple projects and meeting tight deadlines.
+- **Adaptability** 🔄: Ability to stay updated with the latest networking technologies and trends.
+
 
 
 ---
