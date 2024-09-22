@@ -38,9 +38,9 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
   - Tableau 📊, Power BI 📈, Matplotlib, Seaborn
   - Building interactive dashboards, reports, and visualizations to communicate insights
   
-- **Databases & Big Data**:  
-  - SQL 🗄️, NoSQL 🍃 (MongoDB)
-  - Big Data Tools ⚡ (Apache Hadoop, Spark)
+- **Databases **:  
+  - SQLServer 🗄️
+  
   
 - **Machine Learning**:  
   - Scikit-learn 🤖 (Regression, Classification, Clustering)
