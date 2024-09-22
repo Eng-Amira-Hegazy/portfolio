@@ -20,10 +20,31 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ## 🛠️ Skills & Expertise
 
 **Programming & Data Analysis:**
-- **Data Visualization**: Tableau 📊, Power BI 📈, Matplotlib 📊, Seaborn 🎨
-- **Databases**: SQL Server
-- **Programming Languages**: Python 🐍, SQL 💻
-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+
+## 💼 Skills
+
+### 🛠️ Technical Skills
+
+- **Programming Languages**:  
+  - Python 🐍 (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+  - SQL Server 🗄️ 
+  
+- **Data Analysis**:  
+  - Data Wrangling 🧹 (Handling missing data, data cleaning, transformation)
+  - Exploratory Data Analysis (EDA) 🔍 (Pandas, Matplotlib)
+  - Statistical Analysis 📐 (Hypothesis testing, Regression analysis, A/B testing)
+  
+- **Data Visualization**:  
+  - Tableau 📊, Power BI 📈, Matplotlib, Seaborn
+  - Building interactive dashboards, reports, and visualizations to communicate insights
+  
+- **Databases & Big Data**:  
+  - SQL 🗄️, NoSQL 🍃 (MongoDB)
+  - Big Data Tools ⚡ (Apache Hadoop, Spark)
+  
+- **Machine Learning**:  
+  - Scikit-learn 🤖 (Regression, Classification, Clustering)
+  - TensorFlow 🔠 (Deep Learning)
 
 **Networking:**
 🔧 **Network Engineer**  
@@ -88,7 +109,8 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 
 ---
 ## 🌟 Personal Skills
-
+- **Analytical Thinking** 🧠: Proven ability to break down complex data problems into actionable insights.
+- **Attention to Detail** 🧐: Ensuring data accuracy and reliability in reports.
 ### 👥 Interpersonal & Communication
 - **Collaboration** 🤝: Proven ability to work effectively in teams and across departments.
 - **Verbal & Written Communication** 🗣️: Strong presentation and documentation skills for clear data insights sharing.
