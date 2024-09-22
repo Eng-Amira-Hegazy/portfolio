@@ -20,9 +20,10 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ## 🛠️ Skills & Expertise
 
 **Programming & Data Analysis:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)  
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+- **Data Visualization**: Tableau 📊, Power BI 📈, Matplotlib 📊, Seaborn 🎨
+-  
+- **Databases**: SQL Server
+- **Programming Languages**: Python 🐍, SQL 💻
 - ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 **Networking:**
@@ -35,19 +36,20 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 📜 Certifications
-
+### Data Analysis Certificate 🧑‍💻
 
 - 📊 **Data Analysis Certificate** 
 - 🛡️ **CCNP Routing and Switching**  
 - 🛡️ **CCNA - Cisco Certified Network Associate**  
 - 🛡️ **Cisco Certified Security Associate (CCSA)**  
 - 💻 **Microsoft Visual Studio ASP.NET (C#)**  
-- 🐧 **Linux Installation & Administration (Senghor University)**  
+- 🐧 **Linux Installation & Administration (Senghor University)**
+ 
 
 ---
 
 ## 💼 Experience
-### 🔧 **Data Alanalist**
+### 🔧 **Data Analist**
 -expertise in data manipulation, statistical analysis, and visualization using Python, Power Bi and SQL.
 ### 🔧 **Network Engineer**  
 _Information Network & Data Center, Alexandria University (2008-2015)_
