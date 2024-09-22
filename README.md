@@ -84,9 +84,29 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 💼 Experience
+## 🧑‍💼 Work Experience
 
+### Data Analyst | [Alexandria University in Financial Information Systems Unit](#)  
+**ُEGYPT** | **Date Range (2020 – Present)**
 
+**Key Responsibilities:**
+- Extract, clean, and analyze large datasets to provide actionable insights for business operations.
+- Develop interactive dashboards using Tableau 📊 and Power BI 📈 to visualize key metrics and trends.
+- Automate data reporting processes using Python 🐍 (Pandas, NumPy) to improve efficiency .
+- Perform statistical analysis 📐 ( Regression Analysis) to identify patterns and trends in customer behavior.
+- Utilize SQL 🗄️ to write complex queries and perform data extraction, transformation.
 
+## 🧑‍💼 Work Experience
+
+### Senior Network Engineer | [Alexandria University in Information Network &Data Center](#)  
+**EGYPT** | **Date Range (2008 – 2020)**
+
+**Key Responsibilities:**
+- Designed and deployed scalable network infrastructures 🌐 for multi-site operations, including LAN/WAN technologies.
+- Configured advanced routing protocols 🖧 (BGP, OSPF) to ensure high network availability and performance.
+- Managed security 🔐 with firewalls ( Fortinet) and VPN solutions (IPSec, SSL) to protect sensitive data.
+- Monitored network health 🔧 with SolarWinds, quickly identifying and resolving issues before they impacted operations.
+- Led the implementation of wireless networking 📶 solutions with Cisco ,Aruba, improving connectivity for over 10,000 users.
 
 ---
 
