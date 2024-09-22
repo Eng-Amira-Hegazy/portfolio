@@ -49,7 +49,7 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 💼 Experience
-### 🔧 **Data Analist**
+### 🔧 **Data analysist**
 -expertise in data manipulation, statistical analysis, and visualization using Python, Power Bi and SQL.
 ### 🔧 **Network Engineer**  
 _Information Network & Data Center, Alexandria University (2008-2015)_
@@ -78,6 +78,27 @@ _Information Network & Data Center, Alexandria University (2008-2015)_
 - ![Arabic](https://img.shields.io/badge/Arabic-Mother%20Tongue-green)
 
 ---
+## 🌟 Personal Skills
+
+### 👥 Interpersonal & Communication
+- **Collaboration** 🤝: Proven ability to work effectively in teams and across departments.
+- **Verbal & Written Communication** 🗣️: Strong presentation and documentation skills for clear data insights sharing.
+- **Active Listening** 👂: Ensuring understanding and addressing feedback from stakeholders.
+
+### 🔍 Problem-Solving & Critical Thinking
+- **Analytical Thinking** 🧠: Ability to break down complex problems into actionable insights.
+- **Attention to Detail** 🧐: Meticulous focus on data accuracy and consistency.
+- **Creative Problem-Solving** 💡: Using innovative approaches to address data-related challenges.
+
+### ⏱️ Time Management & Organization
+- **Prioritization** 🎯: Ability to juggle multiple tasks while meeting tight deadlines.
+- **Adaptability** 🔄: Comfortable working in fast-paced environments with evolving priorities.
+- **Self-Motivation** 🚀: Driven to learn and apply new techniques independently.
+
+### 🧩 Leadership & Initiative
+- **Proactive** 🌱: Always looking for opportunities to improve processes and performance.
+- **Mentorship** 🧑‍🏫: Experience guiding colleagues in data best practices and tools.
+- **Decision-Making** ⚖️: Balancing data-driven insights with practical solutions.
 
 ## 🔗 Connect with Me
 
