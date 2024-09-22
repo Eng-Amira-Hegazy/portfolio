@@ -35,7 +35,14 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 ---
 
 ## 📜 Certifications
+## 📜 Certifications
 
+### Data Analysis Certificate 🧑‍💻📊
+**Issued by:** [Institution Name](#)  
+**Date:** Month Year  
+**Description:** Gained expertise in data manipulation, statistical analysis, and visualization using Python, R, and SQL.
+
+![Data Analysis Icon](https://img.icons8.com/ios-filled/50/000000/data-analytics.png)  
 - 🛡️ **CCNP Routing and Switching**  
 - 🛡️ **CCNA - Cisco Certified Network Associate**  
 - 🛡️ **Cisco Certified Security Associate (CCSA)**  
