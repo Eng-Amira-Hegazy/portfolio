@@ -55,14 +55,14 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 
 - **Routing & Switching** 🖧:
   - Expertise in dynamic routing protocols: OSPF, BGP, EIGRP, RIP.
-  - Configuring and managing layer 2/3 switches and routers (Cisco, Juniper, Dell).
+  - Configuring and managing layer 2/3 switches and routers (Cisco, Juniper, HPE Aruba,Dell).
   
 - **Security & Firewalls** 🔐:
   - Configuring and maintaining firewalls:  Fortinet
   - Implementation of IPSec VPNs, SSL VPNs, DMZs, and intrusion detection systems (IDS/IPS).
   
 - **Wireless Networking** 📶:
-  - Managing wireless infrastructures using Cisco Meraki, Aruba, Ruckus.
+  - Managing wireless infrastructures using Cisco ,  HPE Aruba.
   - Implementing secure, high-performance Wi-Fi networks (802.11 standards).
 
 - **Monitoring & Troubleshooting** 🔧:
