@@ -48,12 +48,6 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
   - Proficient with network monitoring tools: SolarWinds, Wireshark, Nagios, PRTG.
   - Strong diagnostic skills in analyzing and resolving network performance issues.
 
-- ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-- ![HP](https://img.shields.io/badge/-HP-0096D6?style=flat-square&logo=hp&logoColor=white)
-- Wireless Network Infrastructure Design & Optimization
-- Network Security Implementation
-- Troubleshooting complex LAN/WAN infrastructures
-
 ---
 
 ## 📜 Certifications
