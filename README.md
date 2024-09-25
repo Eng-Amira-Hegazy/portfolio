@@ -1,7 +1,7 @@
 # 👩‍💻 Amira Helal Hegazy
 
 **🌍 Location:** Ajman, United Arab Emirates  
-**📞 Phone:** +971 553998702 / +201067456792 
+**📞 Phone:** +971 553998702 
 **✉️ Email:** [eng_amirahegazy@yahoo.com](mailto:eng_amirahegazy@yahoo.com)
 
 ---
@@ -112,6 +112,9 @@ _Faculty of Engineering - Tanta University, Egypt (2000-2005)_
 
 ## 🚀 Projects
 **Programming & Data Analysis:**
+ 
+- github.com/Eng-Amira-Hegazy
+- kaggle.com/engamirahegazy
 
 **Networking:**
 - **Alexandria University Networking Infrastructure Phase II & III**  
